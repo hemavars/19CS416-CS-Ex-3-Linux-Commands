@@ -159,8 +159,7 @@ head <file_name>
 ```
 
 **Output:**
-
-<img width="649" height="310" alt="image" src="https://github.com/user-attachments/assets/b1e6722a-9d6e-49b9-a79b-52b98eb78700" />
+<img width="1534" height="1025" alt="image" src="https://github.com/user-attachments/assets/2872f7be-cc41-46ba-8987-c66a4b9392cf" />
 
 
 ### 13. `tail` Command
@@ -174,7 +173,7 @@ tail <file_name>
 
 **Output:**
 
-<img width="1534" height="1025" alt="image" src="https://github.com/user-attachments/assets/3740f8a4-4af2-403b-a024-678aaf0de60c" />
+<img width="1586" height="992" alt="image" src="https://github.com/user-attachments/assets/c01e2c2f-5ea3-43e8-b728-c948007b8d03" />
 
 ### 14. `id` Command
 
@@ -187,7 +186,8 @@ id
 
 **Output:**
 
-<img width="2170" height="725" alt="image" src="https://github.com/user-attachments/assets/32b8892d-b995-417c-8001-e8f468e08263" />
+<img width="2170" height="725" alt="image" src="https://github.com/user-attachments/assets/28726e28-7ffc-403a-9589-4da9f5daaa99" />
+
 
 ### 15. `grep` Command
 
@@ -212,8 +212,8 @@ command | tr <old> <new>
 ```
 
 **Output:**
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/909bbf0b-ff4b-4582-9ea3-83d383926341" />
 
-<img width="1574" height="999" alt="image" src="https://github.com/user-attachments/assets/ebae4a69-d520-4133-bb10-20dca73034b1" />
 
 ### 17. `chmod` Command
 
@@ -225,6 +225,7 @@ chmod <options> <permissions> <file_name>
 ```
 
 **Output:**
+<img width="2170" height="725" alt="image" src="https://github.com/user-attachments/assets/ecdf9822-3e74-4522-ade1-c85f12ffc926" />
 
 
 ### 18. `tar` Command
@@ -237,8 +238,8 @@ tar [options] [archive-file] [files_to_archive]
 ```
 
 **Output:**
+<img width="2170" height="725" alt="image" src="https://github.com/user-attachments/assets/74b1a60a-520a-4813-a054-6dd90d6bd8bf" />
 
-<img width="736" height="135" alt="image" src="https://github.com/user-attachments/assets/742664fa-34af-4e3d-9bf0-abdb9367a1f2" />
 
 
 ### 19. `chown` Command
@@ -251,8 +252,8 @@ chown <owner_name> <file_name>
 ```
 
 **Output:**
+<img width="2169" height="725" alt="image" src="https://github.com/user-attachments/assets/717da0e1-f848-4368-be5a-cec1f63e9d77" />
 
-<img width="628" height="181" alt="image" src="https://github.com/user-attachments/assets/5d80f755-d539-493f-bd83-93a0bea445e0" />
 
 ### 20. `make` Command
 
@@ -265,7 +266,7 @@ make [-f makefile] [options] [targets]
 
 **Output:**
 
-<img width="1101" height="406" alt="image" src="https://github.com/user-attachments/assets/56429592-1396-400b-bc06-161aebe0a8d0" />
+<img width="2063" height="762" alt="image" src="https://github.com/user-attachments/assets/7ed44e1d-9fce-440c-a5b7-b8b3c20de908" />
 
 ### 21. `ifconfig` Command
 
@@ -278,7 +279,7 @@ ifconfig [options] [interface]
 
 **Output:**
 
-<img width="1576" height="625" alt="image" src="https://github.com/user-attachments/assets/f018bb99-3030-4a9b-a945-d6d3cc9ba2df" />
+<img width="1991" height="790" alt="image" src="https://github.com/user-attachments/assets/a305cd6d-b885-43cf-8502-ac03647f5e4b" />
 
 ### 22. `chmod 777` Command
 
@@ -292,7 +293,7 @@ chmod -R 777 /path/to/file/or/folder
 
 **Output:**
 
-<img width="604" height="169" alt="image" src="https://github.com/user-attachments/assets/531d9808-5105-4000-bb54-c8baf5893bb5" />
+<img width="2168" height="725" alt="image" src="https://github.com/user-attachments/assets/b6024103-8451-4f6e-93ee-33db8c25f9af" />
 
 ### 23. `host` Command
 
@@ -305,7 +306,7 @@ host <domain_name> or <ip_address>
 
 **Output:**
 
-<img width="1842" height="232" alt="image" src="https://github.com/user-attachments/assets/077adab3-3de5-46f6-bb62-d5f3e7dda689" />
+<img width="2169" height="725" alt="image" src="https://github.com/user-attachments/assets/76ac1a36-61da-47e7-b52e-081f55c246a4" />
 
 ### 24. `gzip` Command
 
@@ -318,7 +319,7 @@ gzip <file1> <file2> <file3>...
 
 **Output:**
 
-<img width="1138" height="474" alt="image" src="https://github.com/user-attachments/assets/43d0530a-902d-4395-9b90-a6ef27d385c8" />
+<img width="1945" height="808" alt="image" src="https://github.com/user-attachments/assets/33003e03-262d-46b6-a3e8-a77ee3a894a2" />
 
 ### 25. `sort` Command
 
@@ -330,9 +331,7 @@ sort <file_name>
 ```
 
 **Output:**
-
-
-<img width="610" height="369" alt="image" src="https://github.com/user-attachments/assets/42248d46-784b-4d42-be70-3572a62c4af4" />
+<img width="1613" height="975" alt="image" src="https://github.com/user-attachments/assets/25ee5e9b-be42-4f8a-aaf6-2388e6732c40" />
 
 
 ### 26. `cal` Command
@@ -346,7 +345,7 @@ cal
 
 
 **Output:**
-<img width="649" height="310" alt="image" src="https://github.com/user-attachments/assets/f59f7449-d0f7-49d8-8e4c-e08a6dacb66f" />
+<img width="1815" height="867" alt="image" src="https://github.com/user-attachments/assets/9646ed2e-ae16-42c5-9431-ce076cd738ba" />
 
 
 
